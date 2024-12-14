@@ -51,7 +51,7 @@ This project implements a Conditional Variational Autoencoder (CVAE) for video p
 - **Conditional Variational Autoencoder (CVAE):**
   - Encoder-decoder structure with latent space sampling using a reparameterization trick.
   - Conditional input for action and end-effector positions.
-  
+  - VAE code reference: https://github.com/pytorch/examples/tree/main/vae  
 - **KL Annealing:**
   - Supports monotonic and cyclical KL annealing schedules.
 
@@ -115,4 +115,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you want any modifications or additional details included in this README.
