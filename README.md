@@ -8,11 +8,11 @@ This project implements a Conditional Variational Autoencoder (CVAE) for video p
 <div style="display: flex; gap: 10px;">
   <div style="text-align: center;">
     <p><strong>Ground Truth</strong></p>
-    <img src="https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/ground_truth.gif" width="400">
+    <img src="https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/ground_truth.gif" width="200">
   </div>
   <div style="text-align: center;">
     <p><strong>Prediction</strong></p>
-    <img src="https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/prediction.gif" width="400">
+    <img src="https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/prediction.gif" width="200">
   </div>
 </div>
 ![image](https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/gt_12frame.PNG)
