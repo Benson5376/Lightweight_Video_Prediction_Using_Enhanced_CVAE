@@ -15,7 +15,13 @@ This project implements a Conditional Variational Autoencoder (CVAE) for video p
     <img src="https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/prediction.gif" width="200">
   </div>
 </div>
+
+### 12 frames of ground truth 
+
 ![image](https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/gt_12frame.PNG)
+
+### 12 frames of prediction
+![image](https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/pd_12frame.PNG)
 
 ## Table of Contents
 
