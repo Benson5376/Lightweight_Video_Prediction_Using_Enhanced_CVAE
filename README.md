@@ -5,8 +5,16 @@
 ## Introduction
 
 This project implements a Conditional Variational Autoencoder (CVAE) for video prediction. The CVAE leverages past video frames and conditions (action and end-effector position) to predict future frames. It includes custom modules for data loading, training with KL annealing, teacher forcing, and a reparameterization trick. The model is trained and evaluated on the BAIR Robot Pushing dataset.  
-![Ground Truth](https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/ground_truth.gif)
-![Prediction](https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/prediction.gif)
+<div style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <p><strong>Ground Truth</strong></p>
+    <img src="https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/ground_truth.gif" width="400">
+  </div>
+  <div style="text-align: center;">
+    <p><strong>Prediction</strong></p>
+    <img src="https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/prediction.gif" width="400">
+  </div>
+</div>
 ![image](https://github.com/Benson5376/Lightweight_Video_Prediction_Using_Enhanced_CVAE/blob/main/resourses/gt_12frame.PNG)
 
 ## Table of Contents
